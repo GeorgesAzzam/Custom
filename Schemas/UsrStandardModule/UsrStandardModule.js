@@ -6,7 +6,7 @@ define("UsrStandardModule", [],
                 this.config.prop1 = 1;
             },
             render:function(){
-                alert("12243");
+                alert("Test Alert");
             }
         };
     });
